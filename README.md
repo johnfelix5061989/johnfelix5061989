@@ -1,4 +1,4 @@
-# 👋 João Dougls Brito de Sá Félix
+# 👋 João Douglas Brito de Sá Félix
 
 🎯 Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**  
 💼 Atualmente em **ambiente institucional crítico (CIODS)**, Secretaria de Defesa Social (**SDS**), Núcleo de Tecnologia e Informática (**NTI**)  
